@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class App {
+public class ContaTerminal {
     public static void main(String[] args) throws Exception {
         Scanner scanner = new Scanner(System.in);
         int numero =0, saldo=0, agencia=0;
